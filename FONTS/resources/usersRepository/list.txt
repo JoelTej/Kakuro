@@ -1,0 +1,6 @@
+user1-4x5-easy user1 4x5 easy 0
+user2-5x5-easy user2 5x5 easy 0
+user1-5x6-medium user1 5x6 medium 0
+user2-6x7-medium user2 6x7 medium 0
+user1-13x10-hard user1 13x10 hard 0
+user2-11x10-hard user2 11x10 hard 0
